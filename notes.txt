@@ -1,0 +1,3 @@
+NAMA = Rasya maulana syafiq
+NIM = 24110310067
+KELAS = Bisnis digital 2A
